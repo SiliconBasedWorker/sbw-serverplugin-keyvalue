@@ -1,0 +1,22 @@
+{
+  "name": "sbw-serverplugin-keyvalue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SiliconBasedWorker/sbw-serverplugin-keyvalue.git"
+  },
+  "author": "Wolf Hugo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SiliconBasedWorker/sbw-serverplugin-keyvalue/issues"
+  },
+  "homepage": "https://github.com/SiliconBasedWorker/sbw-serverplugin-keyvalue#readme",
+  "dependencies": {
+    "fs-extra": "^10.0.1"
+  }
+}
